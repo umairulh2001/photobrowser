@@ -3,7 +3,7 @@ A simple photo browser, which allows you to create a private gallery with Login 
 
 
 ## Demo
-[Hosted Demo Link](http://z1p.site/photobrowser) , **id**=admin **password**=admin
+[Hosted Demo Link](http://zipurl.net/photobrowser) , **id**=admin **password**=admin
 
 
 ## Usage
